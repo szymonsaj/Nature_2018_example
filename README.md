@@ -4,7 +4,7 @@
 In the past decade, machine learning has become a new tool in the chemical engineer’s toolkit. 
 Indeed, driven by its execution speed, flexibility, and user-friendly applications, there is a strong, growing interest in machine learning among Chemical Engineers.
 Chemical Engineers rely on models for design, research, and daily decision-making, often with potentially large financial and safety implications. 
-Therefore, I decided to deal with the problem of predicting the efficiency of chemical reactions.
+Therefore, I decided to deal with the problem of predicting the reactivity of reaction combinations.
 
 ## Goal
 Creating Machine Learning predictor of reaction yields from DOI: 10.1038/s41586-018-0307-8. Data from DOI: 10.1126/science.aap9112.
